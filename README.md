@@ -35,6 +35,12 @@
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
+### Databases
+<div style="display: inline_block">
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6600?style=for-the-badge&logo=firebase&logoColor=white">
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+</div>
+
 ### Cloud
 <div style="display: inline_block">
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -49,5 +55,3 @@
 > "The future belongs to those who believe in the beauty of their dreams."
 >
 > -- <cite>Eleanor Roosevelt</cite>
-
-
