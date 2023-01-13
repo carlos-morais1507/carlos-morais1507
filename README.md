@@ -8,7 +8,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-morais1507&show_icons=true&theme=transparent&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=carlos-morais1507&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
