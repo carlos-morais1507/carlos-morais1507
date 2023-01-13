@@ -31,7 +31,6 @@
 ### Back-end
 <div style="display: inline_block">
 <img alt="nodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img alt="solidity" src="https://img.shields.io/badge/Solidity-ffffff?style=for-the-badge&logo=solidity&logoColor=242424">
 <img alt="COBOL" src="https://img.shields.io/badge/COBOL-07405E?style=for-the-badge&logo=&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
