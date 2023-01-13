@@ -7,9 +7,11 @@
  I'm a developer focused on efficient results and passionate about technology and development. Learning new things every day and studies development for one year, always seeking more knowledge and efficiency in everything he does.
 
 <br>
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=carlos-morais1507&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
+</div>
 <br>
 
 ## My Technical skills 🖥️
