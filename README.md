@@ -5,7 +5,7 @@
 <br>
 
 ## Who am I? 🤔
- I'm a developer focused on efficient results and passionate about technology and development. Learning new things every day and studies development for one year, always seeking more knowledge and efficiency in everything he does.
+ I'm a developer focused on efficient results and passionate about technology and development. Learning new things every day and studies development for one year, always seeking more knowledge and efficiency in everything I do.
 
 <br>
 <div align="center">
