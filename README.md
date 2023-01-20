@@ -16,7 +16,7 @@
 <br>
 
 ## My Technical skills 🖥️
-### Front-end
+### Front-end 🌆
 <div style="display: inline_block">
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -28,7 +28,7 @@
 </div>
 
 
-### Back-end
+### Back-end 👾
 <div style="display: inline_block">
 <img alt="nodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="solidity" src="https://img.shields.io/badge/Solidity-ffffff?style=for-the-badge&logo=solidity&logoColor=242424">
@@ -39,13 +39,13 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-### Databases
+### Databases 📚
 <div style="display: inline_block">
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6600?style=for-the-badge&logo=firebase&logoColor=white">
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
-### Cloud
+### Cloud ☁️
 <div style="display: inline_block">
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
