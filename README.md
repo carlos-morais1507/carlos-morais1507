@@ -1,9 +1,7 @@
 # Hi! I'm Carlos <img width="70px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">
 <img alt="ICS2" src="https://img.shields.io/badge/ICS2_CANDIDATE-468145?style=for-the-badge&logo=isc2&logoColor=white">
-<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmorais1507/)
-[![Website](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/carlos-morais.f12cff0d/badges)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmorais1507/) [![Website](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/carlos-morais.f12cff0d/badges)
 <br>
 
 
@@ -34,9 +32,7 @@ I'm a Support and Information Security Analyst passionate about learning more ab
 </div>
 
 ## Stay in touch ☎️
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Carlos2812) 
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.morais1507@gmail.com) 
-
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Carlos2812)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.morais1507@gmail.com) 
 > "The future belongs to those who believe in the beauty of their dreams."
 >
 > -- <cite>Eleanor Roosevelt</cite>
