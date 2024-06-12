@@ -1,60 +1,55 @@
+# 👋 Hi! I'm Carlos
 
-# Hi! I'm Carlos <img width="70px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmorais1507/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cmorais.dev.br/)
-
-<br>
-
-## Who am I? 🤔
- I'm a developer focused on efficient results and passionate about technology and development. Learning new things every day and studies development for one year, always seeking more knowledge and efficiency in everything I do.
-
-<br>
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-morais1507&count_private=true&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-morais1507&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-<br>
-
-## My Technical skills 🖥️
-### Front-end 🌆
-<div style="display: inline_block">
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img alt="nextjs" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFF">
-<img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-<img alt="nuxt" src="https://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=00DC82">
-<img alt="nuxt" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
-<img alt="nuxt" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</div>
-
-
-### Back-end 👾
-<div style="display: inline_block">
-<img alt="nodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="solidity" src="https://img.shields.io/badge/Solidity-ffffff?style=for-the-badge&logo=solidity&logoColor=242424">
-<img alt="COBOL" src="https://img.shields.io/badge/COBOL-07405E?style=for-the-badge&logo=&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
-
-### Databases 📚
-<div style="display: inline_block">
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF6600?style=for-the-badge&logo=firebase&logoColor=white">
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-</div>
-
-### Cloud ☁️
-<div style="display: inline_block">
-<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</div>
+**`Digital Craftsman (Developer/Security Analyst/Creator)`**
+<ul>
+    <li>🇧🇷 😄 Brazilian with 21 years of experience in living</li>
+    <li>🔐🖥️ Passionate about Cybersecurity and Hacking</li>
+    <li>🐍🟦 Currently studying Python, JavaScript and BASH</li>
+    <li>✍️🗺️ Writing is my hobbie, I love to write fictional worlds for my TTRPGs</li>
+</ul>
 
 <br>
 
-## Stay in touch ☎️
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Carlos2812) 
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.morais1507@gmail.com) 
+<p align="center" style="display:flex;justify-content:center; gap:10px;">
+    <a href="https://www.linkedin.com/in/carlosmoraisjr">
+        <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/carlosmoraisjr">
+        <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/website-000000?style=for-the-badge&logo=devices&logoColor=00ffa6" />
+    </a>
+    <a href="https://www.linkedin.com/in/carlosmoraisjr">
+        <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    </a>
+</p>
+
+---
+
+### 🛠️ Languages and tools I use
+
+<p align="center" style="display:flex;justify-content:space-around; gap:10px;">
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img style="width:30px" alt="Lang" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+</p>
+
+#
+
+<p align="center" style="display:flex;justify-content:space-around; gap:10px;background-color:#121212; border-radius:5px;border:solid;border-width:1px;border-color:#ededed">
+<img style="height:160px" src="https://github-readme-stats.vercel.app/api?username=carlos-morais1507&show_icons=true&theme=transparent&hide_rank=true&border_radius=0&hide_border=true&title_color=00ffa6&icon_color=00ffa6&text_color=ededed" /> 
+<img style="height:160px" src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-morais1507&theme=github-compact&title_color=00ffa6&days=15&hide_border=true&grid=false&line=00ffa6&color=ededed&area=true&area_color=21512b" />
+</p>
+
+#
+
+<details>
+    <summary><h3>🤔 About me</h3></summary>
+    I'm an enthusiast in the field of Cybersecurity, committed to acquiring knowledge and exploring the intricate challenges of digital protection. Currently, I'm immersed in a continuous process of study and practice, seeking to understand and master the nuances of Information Security.
+</details>
