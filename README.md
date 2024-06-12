@@ -14,10 +14,10 @@
     <a href="https://www.linkedin.com/in/carlosmoraisjr">
         <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/carlosmoraisjr">
+    <a href="https://cmorais.dev.br/">
         <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/website-000000?style=for-the-badge&logo=devices&logoColor=00ffa6" />
     </a>
-    <a href="https://www.linkedin.com/in/carlosmoraisjr">
+    <a href="https://leetcode.com/u/carlos-morais1507/">
         <img alt="Website" src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
     </a>
 </p>
